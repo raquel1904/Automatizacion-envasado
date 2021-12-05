@@ -10,7 +10,7 @@ SP_completo : Código completo en VHDL para implementación de la máquina de es
 
 SP_sinPush y TB_SP_sinPush : Código que muestra el funcionamiento de la máquina de estados. (no considera la tarjeta DE10 Lite)
 
-SP y TB_FSM : Código que muestra el funcionamiento de la máquina de estados considerando el push button.
+SP y TB_SFM : Código que muestra el funcionamiento de la máquina de estados considerando el push button.
 
 # Propuesta de máquina de estados
 ![maquina](https://user-images.githubusercontent.com/95587971/144762065-44fcb4b7-0b68-45c8-9323-75865323384c.png)
