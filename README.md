@@ -6,6 +6,7 @@ La motivación para resolver este problema es que Bayer es una empresa internaci
 Este documento presenta el análisis de una posible solución que Bayer puede implementar para resolver esta problemática.
 
 # Documentos
+SP_completo : Código completo en VHDL para implementación de la máquina de estados en la tarjeta DE10 Lite
 
 
 # Propuesta de máquina de estados
