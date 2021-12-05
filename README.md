@@ -7,6 +7,7 @@ Este documento presenta el análisis de una posible solución que Bayer puede im
 
 # Documentos
 SP_completo : Código completo en VHDL para implementación de la máquina de estados en la tarjeta DE10 Lite
+
 SP_sinPush y TB_SP_sinPush : Código que muestra el funcionamiento de la máquina de estados. (no considera la tarjeta DE10 Lite)
 
 
